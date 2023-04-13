@@ -32,4 +32,4 @@ Ben Kasper:
 
 Description: Aggregate Household Income in the Past 12 Months
 
-Link to dataset: https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/34842307-0da6-458a-9df3-a09ab3e3a489/download/aggregate-household-income-in-the-past-12-months-in-2015-inflation-adjusted-dollars.csv
+Link to dataset: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/34842307-0da6-458a-9df3-a09ab3e3a489
