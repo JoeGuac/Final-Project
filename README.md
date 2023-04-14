@@ -33,3 +33,9 @@ Ben Kasper:
 Description: Aggregate Household Income in the Past 12 Months
 
 Link to dataset: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/34842307-0da6-458a-9df3-a09ab3e3a489
+
+Joseph Nguyen:
+
+Description: Total Parks in Pittsburgh Neighborhoods
+
+Link to dataset: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
