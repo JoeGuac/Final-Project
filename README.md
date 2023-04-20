@@ -1,5 +1,7 @@
 # Final-Project
 
+Purpose: To find out which neighborhood in Pittsburgh is the "Best" using several different metrics such as employee counts, enrollment rates, household incomes, and park counts.
+
 Team Name: Group Eighteen
 
 Team Members and their corresponding contact info:
